@@ -1,0 +1,14 @@
+experimentos, observar variables respecto a otras variables.
+variables como heroe usado, numero partidas, tiempo desde ultima partida, tipo de heroe usado. etc.
+cuales son las variables independientes que son significativas.
+eso es parte del analisis de resultado y de la documentacion del analisis de partidas individuales.
+
+Tarea
+Empezar docuemnto tesis
+Tabla de contenido (modelo)
+Mirar tesis de otros lados de otras universidad de ingenieria
+
+*enviar URL de los articulos o tesis mas relevantes a Javier.
+*enviar a prox semana cronograma actualizado.
+*enviar comentarios del coloquio.
+*Tabla de contenido. 9 de marzo *sabado reunion*
