@@ -1,0 +1,15 @@
+mejor resultado (ANN) o mejor proceso (NB adaboost)
+estado de arte dentro del marco teorico
+metodologia despues de marco teorico
+
+enviar documento rec patrones final 
+enviar rapidminer
+*Diseño de un modelo predictivo para
+jugadores profesionales en Dota 2*
+
+aprender python y libs 
+
+proxima vez , vamos con ANN o benchmark entre A,B,C
+que otras medidas el benchmark.
+
+
