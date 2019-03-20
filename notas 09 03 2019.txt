@@ -12,4 +12,6 @@ aprender python y libs
 proxima vez , vamos con ANN o benchmark entre A,B,C
 que otras medidas el benchmark.
 
+nos vemos el 23.03.2019
+
 
