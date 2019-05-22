@@ -1,0 +1,21 @@
+Metodologia - paso exploracion de metodos 
+exploracion de met supervisados para determinar un enfique en la investigacion.
+
+*mas robusto el documento de rec patrones porque ANN es el mejor*
+
+etapa: exploracion de datos y , data cleaning. 600k paso a 23k
+
+atributos asociados a ANN
+capas , atributos de la ANN, tipos de metodos dentro de ANN, simoide, tangente hiperbolica, etc. experimentos
+
+enriquecer documento
+tesis con lo que tengo del anteproyecto
+
+mejorar el exception de 402 que sale de opendota para que continue corriendo
+
+teoria ANN, entender las diferentes metodos y conceptos
+
+primer experimento con datos dota2
+
+
+**Lunes 22 4pm Campus**
